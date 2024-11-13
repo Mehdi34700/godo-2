@@ -1,4 +1,7 @@
 
+#Template 3D un peu modifié (source: https://github.com/Jeh3no/Godot-Advanced-FPS-Controller-Template) 
+
+
 An advanced FPS Controller Template made in Godot 4
 
 
